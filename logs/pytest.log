@@ -1,0 +1,4 @@
+2024-12-11 10:15:44 [    INFO] ******Testing*****is*****going on****** (test_account_login.py:30)
+2024-12-11 10:15:56 [    INFO] ****Testing Started**** (test_home_page.py:16)
+2024-12-11 10:16:31 [    INFO] ****Testing Finished ****** (test_home_page.py:45)
+2024-12-11 10:16:34 [    INFO] **** Starting test_login_ddt ******* (test_login_ddt.py:20)
